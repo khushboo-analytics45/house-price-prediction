@@ -20,5 +20,4 @@ Predicting house prices helps in better decision making for buyers and sellers.
 ## Result
 Built models to predict house prices with improved accuracy.
 
-## Files
-- Project PPT included in repository
+
