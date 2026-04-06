@@ -1,5 +1,3 @@
-# house-price-prediction
-ML project to predict house prices
 # House Price Prediction
 
 ## Overview
